@@ -11,3 +11,4 @@ public class ApplicationRunner {
         System.out.println(msg);
     }
 }
+:-)
